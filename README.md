@@ -1,1 +1,1 @@
-# monte_pi 
+Approximates the value of pi using pthread and the Monte-Carlo Method.
